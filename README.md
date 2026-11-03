@@ -83,3 +83,8 @@ Firebase project
 Auth0 application
 
 Dropbox developer application
+
+🎯 Conclusion
+
+BloodConnect demonstrates the integration of web technologies and cloud services to simplify blood donor registration and blood request management through a 
+user-friendly application.
